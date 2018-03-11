@@ -46,7 +46,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to the Swag Shop</h1>
         </header>
-        <div className=" container-fluid App-main">
+        <div className="container-fluid App-main">
             <div className="row">
                 <div className="col-sm-8">
                     <div className="row">
